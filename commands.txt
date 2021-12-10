@@ -1,0 +1,24 @@
+Para agregar un remote
+git remote add origin /s/remote-project/1
+
+Push
+git push origin master
+
+the git log command to see the history of the repository.
+git log
+git log --pretty=format:"%h %an %ar - %s"
+git log --grep="#1234"
+
+
+The git show command will allow you to view the changes made in each commit.
+git show
+
+Ve todos los branchs
+git branch -r
+
+
+
+Para no hacer pull es mas seguro
+git fetch
+
+git checkout remotes/origin/master
