@@ -22,3 +22,9 @@ Para no hacer pull es mas seguro
 git fetch
 
 git checkout remotes/origin/master
+
+last commit -> working directory
+git checkout .
+
+Reset staging
+git reset HEAD .
