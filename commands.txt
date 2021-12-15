@@ -30,5 +30,3 @@ Reset staging
 git reset HEAD .
 
 solo a commit
-
-para otro commit
