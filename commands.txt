@@ -29,6 +29,6 @@ git checkout .
 Reset staging
 git reset HEAD .
 
-Revert last cahnge commited
+Revert last change commited
 git revert HEAD --no-edit
 
