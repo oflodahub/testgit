@@ -28,5 +28,3 @@ git checkout .
 
 Reset staging
 git reset HEAD .
-
-solo a commit
