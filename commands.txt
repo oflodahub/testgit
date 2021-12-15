@@ -32,4 +32,3 @@ git reset HEAD .
 Revert last cahnge commited
 git revert HEAD --no-edit
 
-lo borrare por error y era importante
